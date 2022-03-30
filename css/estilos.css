@@ -1,6 +1,6 @@
 body
 {
-    color: blue;
+    color: rgb(55, 55, 80);
     text-align: center;
     font-family:  "Arial";
     font-size: 16px;
@@ -24,17 +24,24 @@ body
     font-weight: bold;
     margin: 0;
     padding: 0.5em;
+    align-content: center;
+    
 }
 
 #cabecera #tagline
 {
     font-size: 15px;
-    padding: 0 0 0 1cm;
     font-weight: normal;
     font-size: 0.8cm;
+    margin-bottom: 50px;
 }
 
 #container h1
 {
     font-size: 20;
+}
+#imgHead
+{
+    
+    float:inline-start;
 }
