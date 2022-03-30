@@ -40,8 +40,13 @@ body
 {
     font-size: 20;
 }
-#imgHead
+footer
 {
-    
-    float:inline-start;
+    background-color: dimgrey;
+    height: 50px;
+}
+em
+{
+    color: white;
+    text-align: center;
 }
