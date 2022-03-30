@@ -38,3 +38,13 @@ body
 {
     font-size: 20;
 }
+footer
+{
+    background-color: dimgrey;
+    height: 50px;
+}
+em
+{
+    color: white;
+    text-align: center;
+}
